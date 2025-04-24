@@ -1,4 +1,3 @@
-```markdown
 # 🛠 Docker Volume Persistence with Bind Mounts on Linux Containers
 
 ## 📌 Overview  
