@@ -33,3 +33,6 @@ This repository contains multiple experiments related to Docker, Streamlit, Fast
 ## ⚡ [FastAPI with Docker](https://github.com/Rahul5116/DOCKER/tree/main/fastapi-main)
 - 🚀 Basic experiment with the FastAPI framework.
 - 🔧 Practice in API creation and containerization.
+
+## ⚡ [Dockerized Application on AWS EC2](https://github.com/Rahul5116/DOCKER/tree/main/Dockerized%20Application%20on%20AWS%20EC2)
+- 🚀 Deploy Dockerized applications on an AWS EC2 instance.
