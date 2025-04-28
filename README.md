@@ -42,7 +42,7 @@ This repository contains multiple experiments related to Docker, Streamlit, Fast
 
 
 ## ⚡ [Evidently AI](https://github.com/Rahul5116/DOCKER/tree/main/Evidently%20AI)
-- 🚀 A Docker Bake implementation.
+- 🚀 A Dockerized Streamlit application for running an ML model with Evidently AI.
 
 
 
