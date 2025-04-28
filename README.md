@@ -36,3 +36,11 @@ This repository contains multiple experiments related to Docker, Streamlit, Fast
 
 ## ⚡ [Dockerized Application on AWS EC2](https://github.com/Rahul5116/DOCKER/tree/main/Dockerized%20Application%20on%20AWS%20EC2)
 - 🚀 Deploy Dockerized applications on an AWS EC2 instance.
+
+## ⚡ [Bakery Foundation Example on Windows](https://github.com/Rahul5116/DOCKER/tree/main/Bakery%20Foundation%20Example%20on%20Windows)
+- 🚀 A Docker Bake implementation.
+
+
+
+
+
