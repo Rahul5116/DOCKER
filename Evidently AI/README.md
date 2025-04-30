@@ -27,12 +27,7 @@ This repository contains a **Dockerized Streamlit application** for running an M
 ```
 
 ## 📌 Usage
-Once the container is running, open **http://localhost:8501** in your browser to access the Streamlit ML dashboard.
-
-## 📸 Result
-Below is the output of the Streamlit dashboard:
-
-![Result](image.png)
+Once the container is running, open **http://localhost:8501** in your browser to access the Streamlit ML dashboard
 
 
 
